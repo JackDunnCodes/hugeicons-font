@@ -2,14 +2,14 @@
 
 Updated periodically. Updates are best effort and not guaranteed. Missing icons should be reported as an issue but there is no SLA on a fix.
 
-# "CDN"
+# CDN
 
 ## quickstart
 
 ```HTML
 <link
   rel="stylesheet"
-  href="https://jackdunncodes.github.io/hugeicons-font/icons.min.css"
+  href="https://cdn.jsdelivr.net/gh/JackDunnCodes/hugeicons-font@ed93d33b4918b89472d2f0cd108fd7615d0e12bb/icons.min.css"
   integrity="sha384-UKR3jFk7SiQ9LYi8ZyEkudGGJWm47+5KZEMX8yaSiW2iRVGptT7PKkN33XQG57kc"
   crossorigin="anonymous"
 >
@@ -17,9 +17,9 @@ Updated periodically. Updates are best effort and not guaranteed. Missing icons 
 
 ## Details
 
-Available at `https://jackdunncodes.github.io/hugeicons-font/<file>`
+Generate links at [https://www.jsdelivr.com/package/gh/JackDunnCodes/hugeicons-font](https://www.jsdelivr.com/package/gh/JackDunnCodes/hugeicons-font)
 
-Pls use [SRI hashes](https://srihash.org/)
+Pls use [SRI hashes](https://srihash.org/) and pin to specific commits
 
 Github pages service is best effort and not guaranteed
 
