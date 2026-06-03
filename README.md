@@ -1,12 +1,12 @@
-# Hugeicons Font
+
 
 Updated periodically. Updates are best effort and not guaranteed. Missing icons should be reported as an issue but there is no SLA on a fix.
 
-# CDN
+## CDN
 
 [![](https://data.jsdelivr.com/v1/package/gh/JackDunnCodes/hugeicons-font/badge)](https://www.jsdelivr.com/package/gh/JackDunnCodes/hugeicons-font)
 
-## quickstart
+### Quickstart
 
 ```HTML
 <link
@@ -17,7 +17,7 @@ Updated periodically. Updates are best effort and not guaranteed. Missing icons 
 >
 ```
 
-## Details
+### Details
 
 Generate links at [https://www.jsdelivr.com/package/gh/JackDunnCodes/hugeicons-font](https://www.jsdelivr.com/package/gh/JackDunnCodes/hugeicons-font)
 
