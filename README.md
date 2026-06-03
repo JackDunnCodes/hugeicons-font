@@ -4,6 +4,8 @@ Updated periodically. Updates are best effort and not guaranteed. Missing icons 
 
 # CDN
 
+[![](https://data.jsdelivr.com/v1/package/gh/JackDunnCodes/hugeicons-font/badge)](https://www.jsdelivr.com/package/gh/JackDunnCodes/hugeicons-font)
+
 ## quickstart
 
 ```HTML
