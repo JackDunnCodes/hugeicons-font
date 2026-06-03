@@ -7,7 +7,7 @@ https://hugeicons.com/icon-font
   font-family: "hugeicons-stroke-rounded";
   font-display: block;
   src: url("hgi-stroke-rounded.eot"); /* IE9*/
-  src: url("hgi-stroke-rounded.eot#iefix") format("embedded-opentype"), url("hgi-stroke-rounded.woff2") format("woff2"), url("hgi-stroke-rounded.woff") format("woff"), url("hgi-stroke-rounded.ttf") format("truetype"), url("hgi-stroke-rounded.svg#hugeicons-stroke-rounded") format("svg"); /* iOS 4.1- */
+  src: url("hgi-stroke-rounded.eot#iefix") format("embedded-opentype"), url("hgi-stroke-rounded.woff2") format("woff2"), url("hgi-stroke-rounded.woff") format("woff"), url("hgi-stroke-rounded.ttf") format("truetype"), url("hgi-stroke-rounded-optimised.svg#hugeicons-stroke-rounded") format("svg"); /* iOS 4.1- */
 }
 .hgi-stroke {
   font-family: "hugeicons-stroke-rounded" !important;
