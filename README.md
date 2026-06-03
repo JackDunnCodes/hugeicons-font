@@ -11,8 +11,8 @@ Updated periodically. Updates are best effort and not guaranteed. Missing icons 
 ```HTML
 <link
   rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/JackDunnCodes/hugeicons-font@5d8953abb220a3ae6585c560aea43be955c8d17b/icons.min.css"
-  integrity="sha256-r9jX8xznLXUMRolrK2ebrVcqp5u/dC8SSsV6qdDPPBU="
+  href="https://cdn.jsdelivr.net/gh/JackDunnCodes/hugeicons-font@2026-06-03.2/icons.min.css"
+  integrity="sha384-Eg43hs0ohGyRzlw/UxYjFQaUstCQSAAOKH4MdC+A8OZYPeE8J3pTlhYoW5rYqe1g"
   crossorigin="anonymous"
 >
 ```
