@@ -33,13 +33,13 @@ Please use [SRI hashes](https://srihash.org/) and pin to specific commits
 
 Firstly, I have nothing to do with Hugeicons, and Hugeicons has nothing to do with me. So I can't help with issues related to icon design, and they can't help with issues related to this repo's CSS and font files.
 
-- If icons are missing from here (but present on Hugeicon's website, and is available for free), please open an issue.
-- If icons are broken, please open an issue.
-- If the CSS or font files here are broken/throwing errors, please open an issue.
-- If the CSS or font files here give rise to a security issue or vulnerability, please see SECURITY.md
-- If you don't like an icon's design, and you are NOT using our optimised SVG (in a modern browser you shouldn't be), please talk to Hugeicons.
-- If the files are unusually slow to load (bearing in mind, both the CSS and the fonts are very large files), please refresh and try again. If it's still slow, talk to your hoster (which may be jsDelivr or GitHub Pages).
-- If the below cdn.jsdelivr.net server is throwing errors or has a security issue, please talk to jsDelivr
+- If icons are missing from here (but present on Hugeicon's website, and is available for free), please [open an issue](https://github.com/JackDunnCodes/hugeicons-font/issues/new?template=missing-icon.md).
+- If icons are broken, please [open an issue](https://github.com/JackDunnCodes/hugeicons-font/issues/new).
+- If the CSS or font files here are broken/throwing errors, please [open an issue](https://github.com/JackDunnCodes/hugeicons-font/issues/new).
+- If the CSS or font files here give rise to a security issue or vulnerability, please [see SECURITY.md](https://github.com/JackDunnCodes/hugeicons-font/security/policy).
+- If you don't like an icon's design, and you are NOT using our optimised SVG (in a modern browser you shouldn't be), please [talk to Hugeicons](https://hugeicons.com/docs/faqs/technical-support).
+- If the files are unusually slow to load (bearing in mind, both the CSS and the fonts are very large files), please refresh and try again. If it's still slow, talk to your hoster (which may be [jsDelivr](https://www.jsdelivr.com/) or GitHub Pages).
+- If the below cdn.jsdelivr.net server is throwing errors or has a security issue, please talk to [jsDelivr](https://www.jsdelivr.com/)
 
 ### Support and Updates are Best Effort, and without SLA
 
