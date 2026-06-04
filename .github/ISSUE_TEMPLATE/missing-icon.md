@@ -3,7 +3,7 @@ name: Missing icon
 about: If icons are missing from here (but present on Hugeicon’s website, and is available
   for free)
 title: ''
-labels: ''
+labels: 'needs update?'
 assignees: ''
 
 ---
