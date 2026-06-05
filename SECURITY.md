@@ -21,3 +21,5 @@ Please wait 2 months after telling us and receiving no response at all before pu
 If/when you receive a response, please wait 6 months until after the last response before publicly disclosing, unless otherwise told.
 
 Once fixed, please wait 1 month before publicly disclosing details, to avoid blindsiding developers. You may disclose broad, un-exploitable information about the issue as soon as the fixed code has a release tag.
+
+If we actively refuse a fix as the issue is not considered a security issue, you may disclose immediately, unless you wish us to reconsider - in which case the above applies.
